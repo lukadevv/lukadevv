@@ -3,3 +3,5 @@ I'm a **passionate Full Stack Developer** with a journey that began with creatin
 Over time, I transitioned into **Java development**, where I honed my skills in building robust applications. This experience laid the foundation for my current focus on **web development**, where I work as a full-stack developer.
 
 Today, I specialize in crafting seamless and dynamic web applications, blending both **frontend** and **backend** technologies to deliver complete solutions. Whether it's designing user-friendly interfaces or architecting scalable server-side logic, I'm always eager to take on new challenges and push the boundaries of what's possible on the web.
+
+[![gmail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lukadevv@proton.me)
