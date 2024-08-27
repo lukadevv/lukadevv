@@ -4,4 +4,19 @@ Over time, I transitioned into **Java development**, where I honed my skills in 
 
 Today, I specialize in crafting seamless and dynamic web applications, blending both **frontend** and **backend** technologies to deliver complete solutions. Whether it's designing user-friendly interfaces or architecting scalable server-side logic, I'm always eager to take on new challenges and push the boundaries of what's possible on the web.
 
-[![gmail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lukadevv@proton.me)
+## Main skills
+
+### Languages
+[![My Languages](https://skillicons.dev/icons?i=typescript,javascript,java)](https://skillicons.dev)
+
+### Front-end
+[![My Frontend Skills](https://skillicons.dev/icons?i=nextjs,vite,react,html,css,javascript,tailwind,materialui,bootstrap)](https://skillicons.dev)
+
+### Back-end
+[![My Backend Skills](https://skillicons.dev/icons?i=nestjs,express,graphql,prisma)](https://skillicons.dev)
+
+### Infrastructure
+[![My Infrastructure Skills](https://skillicons.dev/icons?i=docker,redis,nginx,postgresql,sqlite,cloudflare)](https://skillicons.dev)
+
+## Contact
+[![gmail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
