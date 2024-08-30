@@ -7,8 +7,10 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 ### Contact
 [![gmail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
 
-### Some public proyects
-[![TypoTrainer]("https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png")]("https://typo-trainer.pages.dev")
+## Some public projects
+<a href="https://typo-trainer.pages.dev">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
+</a>
 
 ## Skills (Languages, frameworks, tools)
 
