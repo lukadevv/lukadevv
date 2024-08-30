@@ -7,6 +7,9 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 ### Contact
 [![gmail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
 
+### Some public proyects
+[![TypoTrainer]("https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png")]("https://typo-trainer.pages.dev")
+
 ## Skills (Languages, frameworks, tools)
 
 [![My Languages](https://skillicons.dev/icons?i=typescript,javascript,java)](https://skillicons.dev) [![Separator](https://skillicons.dev/icons?i=ros)](https://skillicons.dev) [![My Frontend Skills](https://skillicons.dev/icons?i=nextjs,vite,react,html,css,tailwind,materialui,bootstrap,jest)](https://skillicons.dev) [![Separator](https://skillicons.dev/icons?i=ros)](https://skillicons.dev) [![My Backend Skills](https://skillicons.dev/icons?i=nestjs,express,graphql,prisma)](https://skillicons.dev) [![Separator](https://skillicons.dev/icons?i=ros)](https://skillicons.dev) [![My Infrastructure Skills](https://skillicons.dev/icons?i=docker,redis,nginx,postgresql,sqlite,cloudflare)](https://skillicons.dev)
