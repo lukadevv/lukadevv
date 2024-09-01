@@ -5,7 +5,7 @@ Over time, I transitioned into **Java development**, where I honed my skills in 
 Today, I specialize in crafting seamless and dynamic web applications, blending both **frontend** and **backend** technologies to deliver complete solutions. Whether it's designing user-friendly interfaces or architecting scalable server-side logic, I'm always eager to take on new challenges and push the boundaries of what's possible on the web.
 
 ### Contact
-[![gmail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
+[![mail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
 
 ## Some public projects
 <a href="https://typotrainer.site">
