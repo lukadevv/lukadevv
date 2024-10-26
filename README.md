@@ -8,6 +8,10 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 [![mail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
 
 ## Some public projects
+<a href="https://the-clamber.pages.dev">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TypoTrainer" width="130" />
+</a>
+
 <a href="https://typotrainer.site">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
 </a>
