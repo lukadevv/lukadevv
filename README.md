@@ -16,6 +16,12 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
 </a>
 
+## Open source
+<a href="https://lukadevv.github.io/todo-app/">
+  <img src="https://raw.githubusercontent.com/lukadevv/todo-app/refs/heads/master/public/assets/metadata/android-chrome-512x512.png" alt="TodoApp" width="130" />
+</a>
+
+
 ## Skills (Languages, frameworks, tools)
 
 [![My Languages](https://skillicons.dev/icons?i=typescript,javascript,java)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![My Frontend Skills](https://skillicons.dev/icons?i=nextjs,vite,react,threejs,html,css,tailwind,materialui,bootstrap,jest)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![My Backend Skills](https://skillicons.dev/icons?i=nestjs,express,graphql,prisma)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![My Infrastructure Skills](https://skillicons.dev/icons?i=docker,redis,nginx,postgresql,sqlite,cloudflare,supabase)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![Other Skills](https://skillicons.dev/icons?i=blender)](https://github.com/lukadevv/lukadevv)
