@@ -7,7 +7,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 ### Contact
 [![mail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
 
-## Some public projects
+## Some public projects (Click the icons)
 <a href="https://the-clamber.pages.dev">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TypoTrainer" width="130" />
 </a>
@@ -16,7 +16,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
 </a>
 
-## Open source
+## Apps open source (Click the icons)
 <a href="https://lukadevv.github.io/todo-app/">
   <img src="https://raw.githubusercontent.com/lukadevv/todo-app/refs/heads/master/public/assets/metadata/android-chrome-512x512.png" alt="TodoApp" width="130" />
 </a>
