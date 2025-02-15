@@ -20,6 +20,9 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 <a href="https://lukadevv.github.io/todo-app/">
   <img src="https://raw.githubusercontent.com/lukadevv/todo-app/refs/heads/master/public/assets/metadata/android-chrome-512x512.png" alt="TodoApp" width="130" />
 </a>
+<a href="https://lukadevv.github.io/ecommerce/">
+  <img src="https://raw.githubusercontent.com/lukadevv/ecommerce/refs/heads/main/src/assets/logo.png" alt="TodoApp" width="130" />
+</a>
 
 
 ## Skills (Languages, frameworks, tools)
