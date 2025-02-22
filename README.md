@@ -9,7 +9,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 
 ## Some public projects (Click the icons)
 <a href="https://the-clamber.pages.dev">
-  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TypoTrainer" width="130" />
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TheClamber" width="130" />
 </a>
 
 <a href="https://typotrainer.site">
@@ -20,11 +20,13 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 <a href="https://lukadevv.github.io/todo-app/">
   <img src="https://raw.githubusercontent.com/lukadevv/todo-app/refs/heads/master/public/assets/metadata/android-chrome-512x512.png" alt="TodoApp" width="130" />
 </a>
+
 <a href="https://lukadevv.github.io/ecommerce/">
-  <img src="https://raw.githubusercontent.com/lukadevv/ecommerce/refs/heads/main/src/assets/logo.png" alt="TodoApp" width="130" />
+  <img src="https://raw.githubusercontent.com/lukadevv/ecommerce/refs/heads/main/src/assets/logo.png" alt="Ecommerce" width="130" />
 </a>
+
 <a href="https://lukadevv.github.io/card-viewer/">
-  <img src="https://raw.githubusercontent.com/lukadevv/card-viewer/refs/heads/main/public/assets/android-chrome-512x512.png" alt="TodoApp" width="130" />
+  <img src="https://raw.githubusercontent.com/lukadevv/card-viewer/refs/heads/main/public/assets/android-chrome-512x512.png" alt="CardViewer" width="130" />
 </a>
 
 
