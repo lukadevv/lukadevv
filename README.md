@@ -6,6 +6,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 
 ### Contact
 [![mail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
+[![discord](https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/lukkaa4)
 
 ## Some public projects (Click the icons)
 <a href="https://the-clamber.pages.dev">
