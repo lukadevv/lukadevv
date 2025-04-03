@@ -17,7 +17,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
 </a>
 
-## Apps open source (Click the icons)
+## Open source (Click the icons)
 <a href="https://fusion.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/fusion-simulator/refs/heads/main/public/android-chrome-512x512.png" alt="TodoApp" width="130" />
 </a>
