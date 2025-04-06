@@ -8,7 +8,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 [![mail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
 [![discord](https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/lukkaa4)
 
-## Some public projects (Click the icons)
+## Some projects (Click the icons)
 <a href="https://the-clamber.pages.dev">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TheClamber" width="130" />
 </a>
@@ -17,7 +17,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
 </a>
 
-## Open source (Click the icons)
+## Public / Open source (Click the icons)
 <a href="https://fusion.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/fusion-simulator/refs/heads/main/public/android-chrome-512x512.png" alt="TodoApp" width="130" />
 </a>
