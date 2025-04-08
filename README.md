@@ -9,7 +9,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 [![discord](https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/lukkaa4)
 
 ## Some projects (Click the icons)
-<a href="https://the-clamber.pages.dev">
+<a href="https://the-clamber.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TheClamber" width="130" />
 </a>
 
