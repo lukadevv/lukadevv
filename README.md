@@ -30,7 +30,7 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 <a href="https://github.com/lukadevv/auto-clicker">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/auto-clicker-icon.webp" alt="AutoClicker" width="130" />
 </a>
-<a href="https://lukadevv.github.io/card-viewer/">
+<a href="https://viewer.lukadevv.com">
   <img src="https://raw.githubusercontent.com/lukadevv/card-viewer/refs/heads/main/public/assets/android-chrome-512x512.png" alt="CardViewer" width="130" />
 </a>
 
