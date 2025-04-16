@@ -1,10 +1,12 @@
 <p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/u/125610239?s=400&u=36b024d473c62444bc1ff851cc05da001e8dd2bc&v=4" 
-    width="75" 
-    height="75" 
-    style="background: red; border-radius: 50%;" 
-  />
+  <a href="https://lukadevv.com">
+    <img 
+      src="https://avatars.githubusercontent.com/u/125610239?s=400&u=36b024d473c62444bc1ff851cc05da001e8dd2bc&v=4" 
+      width="75" 
+      height="75" 
+      style="background: red; border-radius: 50%;" 
+    />
+  </a>
 </p>
 
 <p align="center">
