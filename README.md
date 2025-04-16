@@ -1,12 +1,28 @@
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/125610239?s=400&u=36b024d473c62444bc1ff851cc05da001e8dd2bc&v=4" 
+    width="75" 
+    height="75" 
+    style="background: red; border-radius: 50%;" 
+  />
+</p>
+
+<p align="center">
+  <a href="mailto:lukadevv@proton.me">
+    <img src="https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/lukkaa4">
+    <img src="https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white" />
+  </a>
+</p>
+
 I'm a **passionate Full Stack Developer** with a journey that began with creating **Flash games**. My early days were filled with the excitement of bringing interactive experiences to life, which naturally led me to dive deeper into programming.
 
 Over time, I transitioned into **Java development**, where I honed my skills in building robust applications. This experience laid the foundation for my current focus on **web development**, where I work as a full-stack developer.
 
 Today, I specialize in crafting seamless and dynamic web applications, blending both **frontend** and **backend** technologies to deliver complete solutions. Whether it's designing user-friendly interfaces or architecting scalable server-side logic, I'm always eager to take on new challenges and push the boundaries of what's possible on the web.
 
-### Contact
-[![mail](https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white)](mailto:lukadevv@proton.me)
-[![discord](https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/lukkaa4)
+
 
 ## Some projects (Click the icons)
 <a href="https://the-clamber.lukadevv.com/">
