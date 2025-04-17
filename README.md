@@ -48,11 +48,16 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 <a href="https://viewer.lukadevv.com">
   <img src="https://raw.githubusercontent.com/lukadevv/card-viewer/refs/heads/main/public/assets/android-chrome-512x512.png" alt="CardViewer" width="130" />
 </a>
-<a href="https://github.com/lukadevv/auto-clicker">
-  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/auto-clicker-icon.webp" alt="AutoClicker" width="130" />
-</a>
 <a href="https://github.com/lukadevv/drop-storage">
   <img src="./drop-storage-logo.webp" alt="CardViewer" width="130" />
+</a>
+<a href="https://github.com/lukadevv/auto-clicker">
+  <img src="./auto-clicker-logo.webp" alt="AutoClicker" width="130" />
+</a>
+
+## Libraries
+<a href="https://github.com/lukadevv/use-super-local-storage">
+  <img src="./use-super-local-storage.webp" alt="AutoClicker" width="100" />
 </a>
 
 ## Skills (Languages, frameworks, tools)
