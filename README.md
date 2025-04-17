@@ -55,7 +55,6 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
   <img src="./drop-storage-logo.webp" alt="CardViewer" width="130" />
 </a>
 
-
 ## Skills (Languages, frameworks, tools)
 
 [![My Languages](https://skillicons.dev/icons?i=typescript,javascript,java,python)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![My Frontend Skills](https://skillicons.dev/icons?i=nextjs,vite,astro,react,apollo,threejs,html,electron,css,tailwind,materialui,bootstrap,jest)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![My Backend Skills](https://skillicons.dev/icons?i=nestjs,express,nodejs,graphql,prisma,postgresql,sqlite,mysql)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![My Infrastructure Skills](https://skillicons.dev/icons?i=docker,redis,nginx,cloudflare,supabase)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![Hardware](https://skillicons.dev/icons?i=arduino)](https://github.com/lukadevv/lukadevv) [![Separator](https://skillicons.dev/icons?i=ros)](https://github.com/lukadevv/lukadevv) [![Other Skills](https://skillicons.dev/icons?i=blender,githubactions,postman,)](https://github.com/lukadevv/lukadevv)
