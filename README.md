@@ -2,9 +2,8 @@
   <a href="https://lukadevv.com">
     <img 
       src="https://avatars.githubusercontent.com/u/125610239?s=400&u=36b024d473c62444bc1ff851cc05da001e8dd2bc&v=4" 
-      width="90" 
-      height="90" 
-      style="background: red; border-radius: 50%;" 
+      width="120" 
+      height="120" 
     />
   </a>
 </p>
