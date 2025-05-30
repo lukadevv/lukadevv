@@ -37,7 +37,7 @@ Currently, I'm focused on:
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/chronest-logo.webp" alt="Chronest" width="130" />
 </a>
 
-## Mini projects (Click the icons)
+## Small projects (Click the icons)
 <a href="https://the-clamber.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TheClamber" width="130" />
 </a>
