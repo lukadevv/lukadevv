@@ -15,13 +15,21 @@
   <a href="https://discordapp.com/users/lukkaa4">
     <img src="https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white" />
   </a>
+  <a href="https://lukadevv.com">
+    <img src="https://img.shields.io/badge/lukadevv.com-%23E34F26.svg?logo=html5&logoColor=white" />
+  </a>
 </p>
 
-I'm a **passionate Full Stack Developer** with a journey that began with creating **Flash games**. My early days were filled with the excitement of bringing interactive experiences to life, which naturally led me to dive deeper into programming.
+I'm a **Software Developer** with a strong foundation in software engineering and a passion for building modern, scalable digital experiences. My journey began with the creation of **Flash games**, sparking a lifelong interest in interactive technologies and product development.
 
-Over time, I transitioned into **Java development**, where I honed my skills in building robust applications. This experience laid the foundation for my current focus on **web development**, where I work as a full-stack developer.
+Over the years, I transitioned into **Java development**, which taught me how to build reliable and maintainable systems. This experience evolved into a broader focus on **web development**, where I now specialize in developing **end-to-end solutions** across the **frontend**, **backend**, and **cloud infrastructure**.
 
-Today, I specialize in crafting seamless and dynamic web applications, blending both **frontend** and **backend** technologies to deliver complete solutions. Whether it's designing user-friendly interfaces or architecting scalable server-side logic, I'm always eager to take on new challenges and push the boundaries of what's possible on the web.
+Currently, I'm focused on:
+
+- **Building SaaS platforms** and **cloud-native applications**
+- Designing responsive and engaging **user interfaces**
+- Developing scalable **backend APIs** with modern frameworks
+- Exploring **AI integration** and **automation** in web products
 
 
 ## Projects (Click the icons)
