@@ -24,8 +24,12 @@ Over time, I transitioned into **Java development**, where I honed my skills in 
 Today, I specialize in crafting seamless and dynamic web applications, blending both **frontend** and **backend** technologies to deliver complete solutions. Whether it's designing user-friendly interfaces or architecting scalable server-side logic, I'm always eager to take on new challenges and push the boundaries of what's possible on the web.
 
 
+## Projects (Click the icons)
+<a href="https://chronest.lukadevv.com/">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/chronest-logo.webp" alt="Chronest" width="130" />
+</a>
 
-## Some projects (Click the icons)
+## Mini projects (Click the icons)
 <a href="https://the-clamber.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TheClamber" width="130" />
 </a>
@@ -57,6 +61,11 @@ Today, I specialize in crafting seamless and dynamic web applications, blending 
 ## Libraries
 <a href="https://github.com/lukadevv/use-super-local-storage">
   <img src="./use-super-local-storage.webp" alt="AutoClicker" width="100" />
+</a>
+
+## Extensions
+<a href="https://marketplace.visualstudio.com/items?itemName=lukadevv.chronest">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/chronest-logo.webp" alt="Chronest" width="100" />
 </a>
 
 ## Skills (Languages, frameworks, tools)
