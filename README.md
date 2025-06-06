@@ -35,7 +35,6 @@ Currently, I'm focused on:
 - Improving **developer workflows** and **DX** through internal tools and automation
 - Writing maintainable, modular codebases with **scalability and performance** in mind
 
-
 ## Projects (Click the icons)
 <a href="https://chronest.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/chronest-logo.webp" alt="Chronest" width="130" />
