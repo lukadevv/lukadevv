@@ -12,7 +12,7 @@
   <a href="mailto:lukadevv@proton.me">
     <img src="https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/lukkaa4">
+  <a href="https://lukadevv.com">
     <img src="https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white" />
   </a>
   <a href="https://lukadevv.com">
