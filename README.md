@@ -45,7 +45,7 @@ Currently, I'm focused on:
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TheClamber" width="130" />
 </a>
 
-<a href="https://typotrainer.site">
+<a href="https://typotrainer.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
 </a>
 
