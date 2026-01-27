@@ -59,15 +59,17 @@ Currently, I'm focused on:
 <a href="https://todo.lukadevv.com">
   <img src="https://raw.githubusercontent.com/lukadevv/todo-app/refs/heads/master/public/assets/metadata/android-chrome-512x512.png" alt="TodoApp" width="130" />
 </a>
-<a href="https://viewer.lukadevv.com">
-  <img src="https://raw.githubusercontent.com/lukadevv/card-viewer/refs/heads/main/public/assets/android-chrome-512x512.png" alt="CardViewer" width="130" />
-</a>
+<a href="https://github.com/lukadevv-edu/cine-next">
+  <img src="https://raw.githubusercontent.com/lukadevv-edu/cine-next/refs/heads/main/src/assets/logo.webp" alt="CineNext" width="130" />
 </a>
 <a href="https://react-context-vs-zustand.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/react-context-vs-zustand.png" alt="ReactContextVsZustand" width="130" />
 </a>
 <a href="https://github.com/lukadevv/drop-storage">
   <img src="./drop-storage-logo.webp" alt="CardViewer" width="130" />
+</a>
+<a href="https://viewer.lukadevv.com">
+  <img src="https://raw.githubusercontent.com/lukadevv/card-viewer/refs/heads/main/public/assets/android-chrome-512x512.png" alt="CardViewer" width="130" />
 </a>
 <a href="https://github.com/lukadevv/auto-clicker">
   <img src="./auto-clicker-logo.webp" alt="AutoClicker" width="130" />
