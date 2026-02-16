@@ -20,11 +20,7 @@
   </a>
 </p>
 
-I’m a **developer** who started by building Flash games as a kid — that curiosity grew into a passion for creating things that are interactive, useful, and fast.
-
-I moved from making small experiments to writing production systems in **Java**, and eventually found my space in **web development**, where I now work across the full stack — from clean, responsive UIs to reliable backend APIs and cloud infrastructure.
-
-Currently, I'm focused on:
+Currently, focused on:
 
 - Building **SaaS platforms** and **cloud-native applications**
 - Designing responsive and engaging **user interfaces**
