@@ -12,12 +12,16 @@
   <a href="mailto:lukadevv@proton.me">
     <img src="https://img.shields.io/badge/-lukadevv@proton.me-D14836?style=flat&logo=ProtonMail&logoColor=white" />
   </a>
-  <a href="https://lukadevv.com">
+  <a href="https://discord.com/users/546132090769506304">
     <img src="https://img.shields.io/badge/-Discord-D14836?style=flat&logo=Discord&logoColor=white" />
   </a>
   <a href="https://lukadevv.com">
     <img src="https://img.shields.io/badge/lukadevv.com-%23E34F26.svg?logo=html5&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lukadevv&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 Currently, focused on:
