@@ -41,6 +41,10 @@ Currently, focused on:
 </a>
 
 ## Small projects (Click the icons)
+<a href="https://fusion.lukadevv.com/online">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/fs-online.png" alt="FusionSimulator" width="130" />
+</a>
+
 <a href="https://the-clamber.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/the-clamber_logo.png" alt="TheClamber" width="130" />
 </a>
