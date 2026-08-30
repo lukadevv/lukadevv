@@ -1,4 +1,4 @@
-<p align="center">
+<img width="340" height="769" alt="image" src="https://github.com/user-attachments/assets/64b7d29a-0fc8-4af1-965e-2bfa6b7b3bca" /><p align="center">
   <a href="https://lukadevv.com">
     <img 
       src="https://avatars.githubusercontent.com/u/125610239?s=400&u=36b024d473c62444bc1ff851cc05da001e8dd2bc&v=4" 
@@ -56,32 +56,36 @@ Currently, focused on:
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/main/typo-trainer_logo.png" alt="TypoTrainer" width="130" />
 </a>
 
-## Public / Open source (Click the icons)
-<a href="https://noter.lukadevv.com/">
-  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/noter-icon.png" alt="NoterIcon" width="130" />
-</a>
-<a href="https://fusion.lukadevv.com/">
-  <img src="https://raw.githubusercontent.com/lukadevv/fusion-simulator/refs/heads/main/public/android-chrome-512x512.png" alt="FusionSimulator" width="130" />
-</a>
 <a href="https://resume.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/resume-craft.webp" alt="ResumeCraft" width="130" />
 </a>
-<a href="https://ecommerce.lukadevv.com/">
+
+## Public / Open source (Click the icons)
+<a href="https://github.com/lukadevv/noter">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/noter-icon.png" alt="NoterIcon" width="130" />
+</a>
+<a href="https://github.com/lukadevv/fusion-simulator">
+  <img src="https://raw.githubusercontent.com/lukadevv/fusion-simulator/refs/heads/main/public/android-chrome-512x512.png" alt="FusionSimulator" width="130" />
+</a>
+<a href="https://github.com/lukadevv/resume-craft">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/resume-craft.webp" alt="ResumeCraft" width="130" />
+</a>
+<a href="https://github.com/lukadevv/ecommerce">
   <img src="https://raw.githubusercontent.com/lukadevv/ecommerce/refs/heads/main/src/assets/logo.webp" alt="Ecommerce" width="130" />
 </a>
-<a href="https://todo.lukadevv.com">
+<a href="https://github.com/lukadevv/todo-app">
   <img src="https://raw.githubusercontent.com/lukadevv/todo-app/refs/heads/master/public/assets/metadata/android-chrome-512x512.png" alt="TodoApp" width="130" />
 </a>
 <a href="https://github.com/lukadevv-edu/cine-next">
   <img src="https://raw.githubusercontent.com/lukadevv-edu/cine-next/refs/heads/main/src/assets/logo.webp" alt="CineNext" width="130" />
 </a>
-<a href="https://react-context-vs-zustand.lukadevv.com/">
+<a href="https://github.com/lukadevv/react-context-vs-zustand">
   <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/react-context-vs-zustand.png" alt="ReactContextVsZustand" width="130" />
 </a>
 <a href="https://github.com/lukadevv/drop-storage">
   <img src="./drop-storage-logo.webp" alt="CardViewer" width="130" />
 </a>
-<a href="https://viewer.lukadevv.com">
+<a href="https://github.com/lukadevv/card-viewer">
   <img src="https://raw.githubusercontent.com/lukadevv/card-viewer/refs/heads/main/public/assets/android-chrome-512x512.png" alt="CardViewer" width="130" />
 </a>
 <a href="https://github.com/lukadevv/auto-clicker">
