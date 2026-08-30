@@ -35,14 +35,17 @@ Currently, focused on:
 - Improving **developer workflows** and **DX** through internal tools and automation
 - Writing maintainable, modular codebases with **scalability and performance** in mind
 
-## Projects (Click the icons)
-<a href="https://chronest.lukadevv.com/">
-  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/chronest-logo.webp" alt="Chronest" width="130" />
+## Public Projects (Click the icons)
+<a href="https://fusion.lukadevv.com/online/">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/fs-online.png" alt="FusionSimulator" width="130" />
 </a>
 
-## Small projects (Click the icons)
-<a href="https://fusion.lukadevv.com/online">
-  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/fs-online.png" alt="FusionSimulator" width="130" />
+<a href="https://noter.lukadevv.com/">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/noter-icon.png" alt="NoterIcon" width="130" />
+</a>
+
+<a href="https://chronest.lukadevv.com/">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/chronest-logo.webp" alt="Chronest" width="130" />
 </a>
 
 <a href="https://the-clamber.lukadevv.com/">
@@ -54,6 +57,9 @@ Currently, focused on:
 </a>
 
 ## Public / Open source (Click the icons)
+<a href="https://noter.lukadevv.com/">
+  <img src="https://raw.githubusercontent.com/lukadevv/lukadevv/refs/heads/main/noter-icon.png" alt="NoterIcon" width="130" />
+</a>
 <a href="https://fusion.lukadevv.com/">
   <img src="https://raw.githubusercontent.com/lukadevv/fusion-simulator/refs/heads/main/public/android-chrome-512x512.png" alt="FusionSimulator" width="130" />
 </a>
