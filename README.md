@@ -1,4 +1,4 @@
-<img width="340" height="769" alt="image" src="https://github.com/user-attachments/assets/64b7d29a-0fc8-4af1-965e-2bfa6b7b3bca" /><p align="center">
+<p align="center">
   <a href="https://lukadevv.com">
     <img 
       src="https://avatars.githubusercontent.com/u/125610239?s=400&u=36b024d473c62444bc1ff851cc05da001e8dd2bc&v=4" 
